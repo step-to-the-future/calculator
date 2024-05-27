@@ -1,0 +1,277 @@
+*{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+  background-image: url(1338701.png);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.Subscribe{
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 20px;
+  font-size: 20px;
+  width: 130px;
+  height: 40px;
+  cursor: pointer;
+}
+.Subscribe:hover{
+  background-color: grey;
+  color: black;
+}
+.body2{
+  display: flex;
+}
+.main_calculator{
+  margin-left: 28rem;
+  margin-top: 15px;
+}
+.display{
+  width: 440px;
+  text-align: center;
+  height: 80px;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  font-size: 60px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 30px;
+  background-color: rgb(37, 37, 37);
+}
+.main_word{
+  margin-top: 10rem;
+  font-size: 60px;
+  margin-left: 5rem;
+  font-weight: bold;
+  color: white;
+}
+p{
+  margin-left: 8rem;
+  font-size: 35px;
+  color: white;
+}
+.main_div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.number_div{
+  background-color: rgb(37, 37, 37);
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+.number_div button:hover{
+  filter: brightness(2);
+}
+.number{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: rgb(63, 61, 61);
+  color: white;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number2{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: rgb(63, 61, 61);
+  color: white;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number3{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: rgb(63, 61, 61);
+  color: white;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number4{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(63, 61, 61);
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number5{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+  background-color: orange;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number6{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: rgb(63, 61, 61);
+  color: white;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number7{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: rgb(63, 61, 61);
+  color: white;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number8{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: rgb(63, 61, 61);
+  color: white;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number9{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: rgb(63, 61, 61);
+  color: white;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number10{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: orange;
+  color: black;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number11{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(63, 61, 61);
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number12{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(63, 61, 61);
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number13{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+  background-color: orange;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number14{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: orange;
+  color: black;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number15{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: orange;
+  color: black;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
+.number16{
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: orange;
+  color: black;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+}
