@@ -25,6 +25,10 @@ function calculate2(){
     if(puck.innerHTML === "2"){
         evaEl.innerHTML += '2';
     } 
+
+    if(evaEl.innerHTML.length > 7){
+        evaEl.innerHTML = evaEl.innerHTML.slice(0, 7);
+    }
 }
 
 function calculate3(){
